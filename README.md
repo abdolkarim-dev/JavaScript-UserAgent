@@ -52,9 +52,14 @@ It is built for **learning purposes**, **frontend practice**, and understanding 
 ## 📂 Project Structure
 
 ```bash
-├── index.html
-├── style.css
-├── script.js
-├── assets
-│   └── preview.png
-└── README.md
+├─ css
+│  └─ style.css
+├─ help.txt
+├─ image
+├─ index.html
+├─ js
+│  └─ js.js
+├─ LICENSE
+└─ README.md
+
+```
